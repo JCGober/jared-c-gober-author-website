@@ -30,6 +30,15 @@ p{
 body{
     font-family: 'Roboto', sans-serif;
     
+}
+
+.temp{
+
+    background-color: white;
+    border: black 2px solid;
+    text-align: center;
+
+
 
 
 }
